@@ -1,0 +1,9 @@
+name: DReparar
+main: com.ydoom.reparar.main.DReparar
+version: 1.0.0
+author: _yDoom
+description: A repair plugin
+commands:
+   reparar:
+      aliases: [repair]
+      description: A principal command

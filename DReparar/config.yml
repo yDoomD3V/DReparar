@@ -1,0 +1,28 @@
+#Messages
+Invalid_Item: '&cEste item nao pode ser reparado!'
+Free_Repair: '&aVoce reparou um &7%item% &apor &e0 &ade money pois voce é vip!'
+Repair: '&aVoce reparou um &7%item% &apor &e%cost% &ade money!'
+Already_Max_Durability: '&cEste item ja esta com sua durabilidade maxima!'
+Insufficient_Money: '&cVoce precisa de &e%cost% &cpara reparar este item!'
+
+#Permission repair free
+Permission_Repair_Free: 'reparar.vip'
+
+#Repair cost
+Cost: 100
+
+#Menu
+Principal_Menu: 
+   Nome: '&eReparar'
+   
+#Itens
+Item_Confirmar:
+   Nome: '&a&lConfirmar'
+   Id: 35
+   Data: 5
+
+Item_Cancelar:
+   Nome: '&c&lCancelar'
+   Id: 35
+   Data: 14
+   
